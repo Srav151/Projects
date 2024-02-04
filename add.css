@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+form{
+	
+	align-items: center;
+	position: fixed;
+	top:300px;
+	font-size:30px;
+	left: 600px;
+	color:blue;
+	
+}
+body{
+	background-color: #800000;
+}
+
+input {
+font-size: 30px;
+align-items: center;
+
+}
+input placeholder{
+	color: red;
+}
